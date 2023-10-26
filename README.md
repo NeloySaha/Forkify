@@ -4,7 +4,7 @@ An app where, the users can search for recipes for any popular food. The selecte
 
 ## Demo🚀
 
-Check the live site [here](https://readme.so/editor)
+Check the live site [here](https://forkify-psi-navy.vercel.app)
 
 ## Acknowledgements🪪
 
