@@ -4,8 +4,8 @@ An app where, the users can search for recipes for any popular food. The selecte
 
 ## Demo🚀
 
-Check the live site [here]('https://readme.so/editor')
+Check the live site [here](https://readme.so/editor)
 
 ## Acknowledgements🪪
 
-[The Complete JavaScript Course 2023: From Zero to Expert!]("https://www.udemy.com/course/the-complete-javascript-course") by **Jonas Schmedtmann**
+[The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course) by **Jonas Schmedtmann**
